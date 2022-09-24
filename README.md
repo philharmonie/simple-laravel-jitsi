@@ -2,7 +2,6 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/harmoniemedia/simple-laravel-jitsi.svg?style=flat-square)](https://packagist.org/packages/philharmonie/simple-laravel-jitsi)
 [![Total Downloads](https://img.shields.io/packagist/dt/harmoniemedia/simple-laravel-jitsi.svg?style=flat-square)](https://packagist.org/packages/philharmonie/simple-laravel-jitsi)
-![GitHub Actions](https://github.com/harmoniemedia/simple-laravel-jitsi/actions/workflows/main.yml/badge.svg)
 
 Simple Jitsi Integration for Laravel to create Jitsi meetings
 
