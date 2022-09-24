@@ -18,6 +18,10 @@ composer require harmoniemedia/simple-laravel-jitsi
 ```php
 $meeting_room_url = (new SimpleLaravelJitsi)->create_meeting_room_url();
 ```
+If you want to publish the packages configuration, run:
+```php
+php artisan vendor:publish --provider="Harmoniemedia\SimpleLaravelJitsi\SimpleLaravelJitsiServiceProvider"
+
 
 ### Testing
 
