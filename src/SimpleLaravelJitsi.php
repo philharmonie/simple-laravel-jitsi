@@ -11,7 +11,7 @@ class SimpleLaravelJitsi
         $unique_rooms = slug(config('simple-laravel-jitsi.unique_rooms'));
 
         if ($room_name) {
-            $room_name = slug($room_name);
+            $room_name = $company_name . '/' . slug($room_name);
         }
 
         if ($unique_rooms) {
