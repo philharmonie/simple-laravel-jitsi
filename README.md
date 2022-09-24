@@ -1,8 +1,8 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/philharmonie/simple-laravel-jitsi.svg?style=flat-square)](https://packagist.org/packages/philharmonie/simple-laravel-jitsi)
-[![Total Downloads](https://img.shields.io/packagist/dt/philharmonie/simple-laravel-jitsi.svg?style=flat-square)](https://packagist.org/packages/philharmonie/simple-laravel-jitsi)
-![GitHub Actions](https://github.com/philharmonie/simple-laravel-jitsi/actions/workflows/main.yml/badge.svg)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/harmoniemedia/simple-laravel-jitsi.svg?style=flat-square)](https://packagist.org/packages/philharmonie/simple-laravel-jitsi)
+[![Total Downloads](https://img.shields.io/packagist/dt/harmoniemedia/simple-laravel-jitsi.svg?style=flat-square)](https://packagist.org/packages/philharmonie/simple-laravel-jitsi)
+![GitHub Actions](https://github.com/harmoniemedia/simple-laravel-jitsi/actions/workflows/main.yml/badge.svg)
 
 Simple Jitsi Integration for Laravel to create Jitsi meetings
 
@@ -11,7 +11,7 @@ Simple Jitsi Integration for Laravel to create Jitsi meetings
 You can install the package via composer:
 
 ```bash
-composer require philharmonie/simple-laravel-jitsi
+composer require harmoniemedia/simple-laravel-jitsi
 ```
 
 ## Usage
